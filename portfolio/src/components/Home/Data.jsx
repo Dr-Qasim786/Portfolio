@@ -58,7 +58,7 @@ const Data = () => {
 
       <h3 className="home__subtitle">Assistant Professor/Economist</h3>
       <p className="home__description">
-        I hold a Ph.D. in Economics, specializing in Institutional Quality, Trade Openness, and Economic Growth in South Asia.
+      PhD in Economics | 6+ years of academic excellence | Expertise in economic analysis, research, and teaching | Passionate about applying economic theories to real-world problems
       </p>
 
       <a href="#contact" className="button button--flex">
