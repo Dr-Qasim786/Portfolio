@@ -28,10 +28,10 @@ const Footer = () => {
         </ul>
 
         <div className="footer__social">
-          <a href="https://github.com/Muhammad-Waqar-Murtaza" className="footer__social-link" target="_blank">
+          <a href="https://scholar.google.com/citations?user=reTT5GIAAAAJ&hl=en" className="footer__social-link" target="_blank">
             <i class="fa-brands fa-google-scholar"></i>
           </a>
-          <a href="https://linkedin.com/in/muhammad-waqar-murtaza" className="footer__social-link" target="_blank">
+          <a href="https://www.linkedin.com/in/dr-hafiz-muhammad-qasim-522a7a137" className="footer__social-link" target="_blank">
             <i class="bx bxl-linkedin"></i>
           </a>
         </div>
