@@ -12,7 +12,7 @@ const Qualification = () => {
     return (
     <section className="qualification section" id="qualification">
         <h2 className="section__title">Qualification</h2>
-        <span className="section__subtitle">My Journey</span>
+        <span className="section__subtitle">My Educational Journey</span>
 
         <div className="qualification__container container">
             <div className="qualification__tabs">
@@ -81,7 +81,7 @@ const Qualification = () => {
                             <span className="qualification__line"></span>
                         </div>
                         <div>
-                            <h3 className="qualification__title">Diploma Applied Economics</h3>
+                            <h3 className="qualification__title">PGD in Applied Economics</h3>
                             <span className="qualification__subtitle">Department of Economics, University of Punjab, Lahore</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
